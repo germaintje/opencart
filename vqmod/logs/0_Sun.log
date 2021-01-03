@@ -1,0 +1,55 @@
+---------- Date: 2021-01-03 10:17:19 ~ IP : ::1 ----------
+REQUEST URI : /opencart/admin/index.php?route=marketplace/extension&user_token=FhQgxxvGTTuDmyAowDofAaIfBtdeMVkC
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\opencart\vqmod/xml/mollie.xml
+   id        : Quality Works - Mollie
+   version   : 1.3.8
+   vqmver    : 2.3.0
+   author    : Quality Works
+VQModObject::parseMods - Could not resolve path for [catalog/controller/event/compatibility.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/event/compatibility.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/sale/order_info.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/home.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/english/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/de-de/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/german/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/nl-nl/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/dutch/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/es-es/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/spanish/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/fr-fr/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/french/sale/order.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/sale/order_info.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/dashboard.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/home.tpl] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/controller/common/home.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\opencart\vqmod/xml/util.xml
+   id        : Quality Works Utility
+   version   : 1.0.1
+   vqmver    : 2.3.0
+   author    : Quality Works
+VQModObject::parseMods - Could not resolve path for [admin/view/template/common/header.tpl] (SKIPPED)
+
+File Name    : system/engine/action.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): if (is_dir(DIR_APPLICATION . 'controller/' . $path)) {
+
+File Name    : system/library/template/twig.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $this->twig = new \Twig_Environment
+----------------------------------------------------------------------
+
+
+---------- Date: 2021-01-03 10:34:16 ~ IP : ::1 ----------
+REQUEST URI : /opencart/admin/index.php?route=common/login
+MOD DETAILS:
+   modFile   : C:\xampp\htdocs\opencart\vqmod/xml/mollie.xml
+   id        : Quality Works - Mollie
+   version   : 1.3.8
+   vqmver    : 2.3.0
+   author    : Quality Works
+
+File Name    : admin/controller/common/login.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $ignore = array(
+----------------------------------------------------------------------
+
+
